@@ -5,11 +5,11 @@ Running on - medical-platform.surge.sh
 ### Frontend
 * Clone or download the repo. into any fresh temporary folder.
 ```
-git clone https://github.com/Paarmita/MedicalProject
+git clone https://github.com/Raghavlakhotia/medical-counselling
 ```
 * Cd into that root folder you just cloned locally.
 ```
-cd MedicalProject && cd Client
+cd medical-councelling && cd Client
 ```
 * Open terminal in the current folder and to install all dependencies type and 
 ```
